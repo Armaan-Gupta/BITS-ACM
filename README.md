@@ -7,3 +7,4 @@ learning python. I started with a course called 100 Days of Code on Udemy, compl
 till day 12. Till Day 12, all the basics (conditions, loops, variables, lists, tupules, functions) are properly covered, with a small project each day to practice
 concepts.
 
+Now i have learnt a lot more
